@@ -1,0 +1,2 @@
+echo 'date +%Y%m%d -s "'$(date +%Y%m%d)'"' > curdate
+echo 'date +%T -s "'$(date +%T)'"' >> curdate

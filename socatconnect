@@ -1,0 +1,1 @@
+socat pty,link=ttyv,raw tcp:10.95.249.186:2000&
